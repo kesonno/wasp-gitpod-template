@@ -1,7 +1,5 @@
 # A Wasp template on Gitpod
 
-<img src="./MyNewApp/src/client/waspLogo.png" width='100px'/>
-
 This is a [Wasp](https://wasp-lang.dev/) template configured for ephemeral developer environments on [Gitpod](https://www.gitpod.io/).
 
 Inside this template is a simple ToDo app complete with Authentication, Database Entities, and Client & Server Operations. 
@@ -16,7 +14,7 @@ Visit [wasp-lang.dev](https://www.wasp-lang.dev) for more info.
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/wasp-lang/gitpod-template)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kesonno/wasp-gitpod-template)
 
 ## Get Started With Your Own Project
 
